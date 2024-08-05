@@ -5,7 +5,7 @@
 <center><h1>THANAY RESTAURANT</h1></center>
 <pre>
 veg menu
-1.goi
+1.gobi
 2.panner
 3.musroom
 Non veg menu
